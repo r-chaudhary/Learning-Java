@@ -1,8 +1,3 @@
-/**
- * Write a Java program to convert a binary number to decimal number.
- * @author Rahul Chaudhary
- * @email r.chaudhary@outlook.in
- */
 /*
  * Author : Rahul Chaudhary
  * Email : r.chaudhary@outlook.in
