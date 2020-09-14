@@ -1,6 +1,6 @@
 # Learning-Java
 
-This is the Java Learning Repositry of mine . Here you will find amazing python codes from begineer level to advance.
+This is the Java Learning Repositry of mine . Here you will find amazing Java codes from begineer level to advance.
 Scheduled some more amazing code in short time.
 
 ---
